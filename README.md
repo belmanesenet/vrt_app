@@ -1,4 +1,4 @@
-# Visula Regretion Test
+# Visual Regretion Test
 
 Generación de paletas de colores aleatoriamente.
 
